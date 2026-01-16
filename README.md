@@ -47,5 +47,5 @@ Foco em programação orientada a objetos e desenvolvimento backend.
 </div>
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/39d353/Nilson-N-Nascimento" alt="Contribution Calendar"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nilson-N-Nascimento&bg_color=0d1117&color=9be9a8&line=9be9a8&point=9be9a8&area_color=0d1117&title_color=c9d1d9&area=true&hide_border=true&custom_title=Contribution%20Calendar" alt="Contribution Calendar"/>
 </div>
