@@ -47,5 +47,13 @@ Foco em programação orientada a objetos e desenvolvimento backend.
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nilson-N-Nascimento&bg_color=0d1117&color=9be9a8&line=9be9a8&point=9be9a8&area_color=0d1117&title_color=c9d1d9&area=true&hide_border=true&custom_title=Contribution%20Calendar" alt="Contribution Calendar"/>
+  
+![](https://github-readme-streak-stats.herokuapp.com/?user=Nilson-N-Nascimento&theme=dark&hide_border=true&background=0d1117&ring=39d353&fire=39d353&currStreakLabel=ffffff&sideLabels=ffffff&dates=8b949e&stroke=0d1117&currStreakNum=39d353)
+
+</div>
+
+<div align="center">
+  
+![](https://raw.githubusercontent.com/Nilson-N-Nascimento/Nilson-N-Nascimento/output/github-contribution-grid-snake-dark.svg)
+
 </div>
