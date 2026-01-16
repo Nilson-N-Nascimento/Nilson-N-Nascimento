@@ -46,6 +46,10 @@ Foco em programação orientada a objetos e desenvolvimento backend.
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nilson-N-Nascimento&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e"/>
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Nilson-N-Nascimento/Nilson-N-Nascimento/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</div>
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nilson-N-Nascimento/Nilson-N-Nascimento/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nilson-N-Nascimento/Nilson-N-Nascimento/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nilson-N-Nascimento/Nilson-N-Nascimento/output/github-contribution-grid-snake.svg">
+</picture>
