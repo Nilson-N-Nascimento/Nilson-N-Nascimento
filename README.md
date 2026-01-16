@@ -2,7 +2,7 @@
 
 **Estudante de Ciência da Computação** · Backend Developer
 
-Foco em programação orientada a objetos e desenvolvimento backend.
+Foco em desenvolvimento backend.
 
 ---
 
