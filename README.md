@@ -47,13 +47,5 @@ Foco em programação orientada a objetos e desenvolvimento backend.
 </div>
 
 <div align="center">
-  
-![](https://github-readme-streak-stats.herokuapp.com/?user=Nilson-N-Nascimento&theme=dark&hide_border=true&background=0d1117&ring=39d353&fire=39d353&currStreakLabel=ffffff&sideLabels=ffffff&dates=8b949e&stroke=0d1117&currStreakNum=39d353)
-
-</div>
-
-<div align="center">
-  
-![](https://raw.githubusercontent.com/Nilson-N-Nascimento/Nilson-N-Nascimento/output/github-contribution-grid-snake-dark.svg)
-
+  <img src="https://raw.githubusercontent.com/Nilson-N-Nascimento/Nilson-N-Nascimento/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </div>
