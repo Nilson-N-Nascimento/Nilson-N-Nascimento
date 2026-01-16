@@ -47,5 +47,5 @@ Foco em programação orientada a objetos e desenvolvimento backend.
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nilson-N-Nascimento&bg_color=0d1117&color=39d353&line=39d353&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://ssr-contributions-svg.vercel.app/_/Nilson-N-Nascimento?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=40&theme=purple" alt="Contribution Grid"/>
 </div>
