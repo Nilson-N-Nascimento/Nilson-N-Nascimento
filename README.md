@@ -47,5 +47,5 @@ Foco em programação orientada a objetos e desenvolvimento backend.
 </div>
 
 <div align="center">
-  <img src="https://ssr-contributions-svg.vercel.app/_/Nilson-N-Nascimento?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=40&theme=purple" alt="Contribution Grid"/>
+  <img src="https://ghchart.rshah.org/39d353/Nilson-N-Nascimento" alt="Contribution Calendar"/>
 </div>
